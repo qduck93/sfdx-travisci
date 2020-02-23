@@ -1,7 +1,5 @@
 {
-    "orgName": "wade.wegner Example",
+    "orgName": "my company",
     "edition": "Developer",
-    "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"]
-    }
+    "features": []
 }
