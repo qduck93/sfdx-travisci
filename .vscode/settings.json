@@ -6,6 +6,6 @@
         "SFDX_SET_CLIENT_IDS": "sfdx-vscode"
     },
     "terminal.integrated.env.windows": {
-        "SFDX_SET_CLIENT_IDS": "sfdx-vscode"
+        "SFDX_SET_CLIENT_IDS": "sfdx-vscode"}
     }
 }
